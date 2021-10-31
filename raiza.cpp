@@ -1,3 +1,5 @@
+// Start of program
+
 #include<bits/stdc++>
 using namespace std;
 
@@ -10,3 +12,5 @@ right = NULL;
 val = X;
 }
 };
+
+// End of program
